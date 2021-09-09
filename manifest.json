@@ -1,0 +1,16 @@
+{
+  "name": "TimeKeeper",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Add Clocks to Your Browser",
+  "action": {
+    "default_icon": {
+      "32": "ico.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "ico.png",
+    "128": "ico.png"
+  }
+}
